@@ -4,12 +4,21 @@ where to go?
 GIT is devops stage1
 what is going on? 
 with time and practice we will understand
-stay with me
 <<<<<<< HEAD
-maybe it clashes according 
-to lines
-=======
+now i am adding a line
+to see again
+a conflict
+here and there
+
+||||||| a5b1710
+stay with me
 adding a new line
 to see conflict
 
+=======
+stay with me
+adding a new line
+to see conflict
+everything takes time
+we working baby
 >>>>>>> dev
